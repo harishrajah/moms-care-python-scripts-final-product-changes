@@ -13,6 +13,9 @@ python scripts used for wrangling vaccination coverage and park dataset
 ![5](https://user-images.githubusercontent.com/50584119/58369893-29f5f780-7f44-11e9-8206-fc3c42127d61.GIF)
 ![6](https://user-images.githubusercontent.com/50584119/58369894-2a8e8e00-7f44-11e9-9f7a-4143d1492374.GIF)
 ![7](https://user-images.githubusercontent.com/50584119/58369895-2a8e8e00-7f44-11e9-9f3d-9a2ca3f0b638.GIF)
+
+#### predictive analytics
+#### linear regression
 ![8](https://user-images.githubusercontent.com/50584119/58369896-2b272480-7f44-11e9-9684-b9b4dc896a91.GIF)
 ![9](https://user-images.githubusercontent.com/50584119/58369897-2b272480-7f44-11e9-927a-78e2c601ba3e.GIF)
 ![10](https://user-images.githubusercontent.com/50584119/58369898-2bbfbb00-7f44-11e9-87cc-4f80d8886291.GIF)
