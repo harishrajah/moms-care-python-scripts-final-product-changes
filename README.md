@@ -31,3 +31,29 @@ python scripts used for wrangling vaccination coverage and park dataset
 
 #### output json file
 ![16](https://user-images.githubusercontent.com/50584119/58369904-2cf0e800-7f44-11e9-9005-ec2ccd3bbe51.GIF)
+
+### 2.parks_updated
+
+#### input csv file
+![1](https://user-images.githubusercontent.com/50584119/58370142-83f7bc80-7f46-11e9-903f-8a81d21fd06d.GIF)
+
+#### code
+![2](https://user-images.githubusercontent.com/50584119/58370143-84905300-7f46-11e9-895d-0061f676d4fb.GIF)
+![3](https://user-images.githubusercontent.com/50584119/58370144-84905300-7f46-11e9-80a9-8db0407e13ca.GIF)
+
+#### reverse geocoding
+![4](https://user-images.githubusercontent.com/50584119/58370145-84905300-7f46-11e9-8f93-0692e6e7936e.GIF)
+
+#### code
+![5](https://user-images.githubusercontent.com/50584119/58370146-8528e980-7f46-11e9-96cf-b346793747fe.GIF)
+![6](https://user-images.githubusercontent.com/50584119/58370147-8528e980-7f46-11e9-9825-ada2309855a9.GIF)
+
+#### ouput csv file
+![7](https://user-images.githubusercontent.com/50584119/58370148-8528e980-7f46-11e9-8d0f-e6c23c626c71.GIF)
+
+#### code
+![8](https://user-images.githubusercontent.com/50584119/58370149-85c18000-7f46-11e9-80e4-303e8721bc90.GIF)
+
+#### output json file
+![9](https://user-images.githubusercontent.com/50584119/58370150-85c18000-7f46-11e9-8413-54856726db63.GIF)
+
